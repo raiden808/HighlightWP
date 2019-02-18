@@ -17,3 +17,5 @@ define( 'HLWP_TEXTDOMAIN', 'high_wp' );
 define( 'HLWP_VERSION', '0.0.0' );
 define( 'HLWP_PLUGIN_URL', plugin_dir_url( __FILE__ ) );
 define( 'HLWP_PLUGIN_PATH', plugin_dir_path( __FILE__ ) );
+
+require_once(HLWP_PLUGIN_PATH.'/classes/class-hwp-scripts.php');
