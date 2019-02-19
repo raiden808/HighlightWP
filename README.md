@@ -1,3 +1,7 @@
 HighlightWP
 ==========
-<center><img src="assets/images/Screenshot_2.png"></center>
+
+This plugin is created to use Medium-like text sharing capability.
+<img src="assets/images/Screenshot_2.png">
+
+Using <a href="https://github.com/anythingcodes/highlight-share">anythingcodes</a> library to power this plugin. Credits to them!
