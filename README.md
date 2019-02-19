@@ -1,6 +1,4 @@
-HighlightWP
-==========
-
+# HighlightWP
 This plugin is created to use Medium-like text sharing capability.
 Using <a href="https://github.com/anythingcodes/highlight-share">anythingcodes</a> library to power this plugin. Credits to them!
 
