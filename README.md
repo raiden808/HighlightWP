@@ -7,3 +7,7 @@ Using <a href="https://github.com/anythingcodes/highlight-share">anythingcodes</
 <h4>Sample:</h4>
 <img src="assets/images/Screenshot_2.png">
 
+
+Acknowledgments
+==========
+* <a href="https://github.com/anythingcodes/">Liz Shaw</a>
