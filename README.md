@@ -5,7 +5,7 @@ This plugin is created to use Medium-like text sharing capability.
 Using <a href="https://github.com/anythingcodes/highlight-share">anythingcodes</a> library to power this plugin. Credits to them!
 
 <h4>Sample:</h4>
-<img src="assets/images/Screenshot_1.png">
+<img src="assets/images/Screenshot_3.png">
 
 Supports
 ==========
